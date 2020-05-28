@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Марзо</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <header>
+   
+    <div class="shapka">
+       <div class="nav">
+           <ul class="nav_osnova">
+               <li class="nav_items"><a href="">Меню</a></li>
+               <li class="nav_items"><a href="">О нас</a></li>
+               <li class="nav_items"><a href="">Контакты</a></li>
+           </ul>
+       </div>
+       </div>
+  </header>
+   <main></main>
+    <footer>
+        <ul>
+        <selector>Связаться с нами:
+          <li><a href="https://www.instagram.com/marzo_pelmeni/">Инстаграм - Instagram</a></li>
+          <li><a href="">Whats App</a></li>
+        </selector>
+        </ul>
+        <div class="map"><script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A179f0b4e1b4184a4ec64720ab8f1bc61aedf70c47e83130859f7b3bb061ff0a9&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script></div>
+    </footer>
+</body>
+</html>
